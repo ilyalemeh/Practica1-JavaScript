@@ -1,0 +1,275 @@
+/* 4 */
+/* table {
+    border-collapse: collapse;
+  }
+  td {
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    cursor: pointer;
+  } */
+/* 5 */
+  /* .keyboard {
+    display: grid;
+    grid-template-columns: repeat(10, 80px);
+    grid-gap: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 850px;
+    margin: 20px auto;
+  }
+
+  .key {
+    border: 1px solid #ccc;
+    padding: 5px;
+    text-align: center;
+    cursor: pointer;
+  } */
+  /* 6 */
+  /* ul {
+    list-style: none;
+    display: flex;
+    padding: 0;
+  }
+
+  li {
+    margin: 5px;
+  }
+
+  li.today {
+    background-color: #e49d6e;
+    border-radius: 5px;
+  } */
+  /* 8 */
+  /* * {
+    box-sizing: border-box;
+  }
+
+  #parent {
+    margin: 0 auto;
+    width: 600px;
+  }
+
+  #input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+
+  #table {
+    width: 100%;
+  }
+
+  #table td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+  } */
+
+  /* 10 */
+  /* #parent {
+    text-align: center;
+  }
+
+  #parent > * {
+    margin-bottom: 10px;
+  }
+
+  #timer {
+    font-size: 18px;
+  }
+
+  #text {
+    font-size: 17px;
+    font-style: italic;
+  }
+
+  button {
+    padding: 5px 10px;
+    font-size: 15px;
+    cursor: pointer;
+  }
+
+  button:not(.active) {
+    display: none;
+  }
+
+  .good {
+    color: green;
+  }
+
+  .bad {
+    color: red;
+  } */
+
+  /* Чеклист */
+  /* body {
+    text-align: center;
+  }
+  
+  #input, #list {
+    display: inline-block;
+  }
+  
+  #list {
+    padding: 0;
+    list-style-type: none;
+  }
+  #list span {
+    margin-right: 5px;
+  }
+  #list .remove, #list .mark {
+    color: blue;
+    cursor: pointer;
+  }
+  #list .remove:hover, #list .mark:hover {
+    text-decoration: underline;
+  }
+  
+  #list .done .task {
+    text-decoration: line-through;
+  } */
+
+
+  /* Калькулятор продуктов */
+  /* * {
+    box-sizing: border-box;
+  }
+  #parent {
+    margin: 0 auto;
+    width: 500px;
+  }
+  
+  #form {
+    display: flex;
+    margin-bottom: 15px;
+  }
+  #form input {
+    padding: 8px;
+    width: 24%;
+    margin: 0 0.5% 10px 0.5%;
+  }
+  
+  h2 {
+    margin-top: 0;
+    margin-bottom: 7px;
+  }
+  
+  #table {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  #table td, #table th {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid black;
+  }
+  #table td.remove {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  #table td.remove:hover {
+    text-decoration: none;
+  }
+  
+  #result {
+    text-align: right;
+    margin-right: 10px;
+  } */
+
+
+  /* 30 */
+  /* * {
+    box-sizing: border-box;
+  }
+  .right {
+    border: 1px solid green;
+  }
+  .wrong {
+    border: 1px solid red;
+  } */
+
+  /* 31 */
+  /* * {
+    box-sizing: border-box;
+  }
+  .right {
+    border: 1px solid green;
+  }
+  .wrong {
+    border: 1px solid red;
+  } */
+
+  /* 32-36 */
+  /* * {
+    box-sizing: border-box;
+  }
+  .right {
+    border: 1px solid green;
+  }
+  .wrong {
+    border: 1px solid red;
+  }
+
+  */
+
+  /* крестики нолики */
+  /* #field td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    font-weight: bold;
+  } */
+
+  /* Игра смена цветов */
+  /* #field td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .red {
+    background: red;
+  }
+
+  .green {
+    background: green;
+  }
+
+  .blue {
+    background: blue;
+  } */
+
+  /* Календарь */
+
+  /* #parent {
+    text-align: center;
+  }
+  #calendar {
+    display: inline-block;
+  }
+  #calendar td, #calendar th {
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+  #calendar .nav, #calendar .info {
+    text-align: center;
+  }
+  #calendar a {
+    color: blue;
+    font-size: 25px;
+    text-decoration: none;
+  }
+  #calendar a:hover {
+    color: red;
+  }
+  
+  #calendar .active {
+    color: red;
+  } */
